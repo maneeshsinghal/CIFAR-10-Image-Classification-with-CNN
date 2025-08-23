@@ -120,7 +120,7 @@ libraries installed. Follow these steps:
 -   Implement **dropout** to prevent overfitting.
 -   Experiment with advanced architectures like **ResNet** or **VGG**.
 -   Enhance custom image preprocessing for better compatibility.
--   Add **model evaluation** on the test set using `model.evaluate`.
+-   Add **model evaluation** on the test set using `model.evaluate`
 
 ## 📚 References
 
