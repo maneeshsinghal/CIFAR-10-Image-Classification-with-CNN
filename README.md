@@ -49,7 +49,7 @@ libraries installed. Follow these steps:
 1.  **Clone the Repository**:
 
     ``` bash
-    git clone https://github.com/your-username/cifar10-classification.git
+    git clone https://github.com/shervinnd/cifar10-classification.git
     cd cifar10-classification
     ```
 
